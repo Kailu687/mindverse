@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kailashamarnath.me/mindverse/sitemap.xml
