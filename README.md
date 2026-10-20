@@ -33,7 +33,7 @@ GitHub Pages serves this repository from `main` / `(root)`. The custom domain `k
 
 ## Sources used on the page
 
-Pew Research Center (Dec 2024 and Apr 2025 teen surveys; Nov 2022 teen survey), Gallup (Oct 2023), WHO Europe / HBSC (Sep 2024), UC Irvine (Gloria Mark, 2023 interview), DataReportal Digital 2025. Links are on each card.
+Gallup (Oct 2023), Pew Research Center (Apr 2025 teen survey, and the Nov 2022 survey for the "honest picture" panel), UC Irvine (Gloria Mark, 2023 interview). Links are on each card.
 
 ## Licence
 
